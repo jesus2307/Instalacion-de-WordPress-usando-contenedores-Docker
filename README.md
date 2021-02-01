@@ -11,8 +11,14 @@ con los puestos abiertos
 #### Instalar y configurar Docker y Docker compose en la máquina virtual.
 
 #### Crear un archivo docker-compose.yml para poder desplegar los servicios de WordPress, MySQL y phpMyAdmin. Deberá utilizar las imágenes oficiales de Docker Hub.
+![Freenom](https://github.com/jesus2307/iaw-practica-15/blob/main/imagen/Captura1.PNG "Freenom")
 
-Busque cuál es la dirección IP pública de su instancia y compruebe que puede acceder a los servicios de WordPress y phpMyAdmin desde una navegador web.
+Busque cuál es la dirección IP pública de su instancia y compruebe que puede acceder a los servicios de 
++ WordPress
+![Freenom](https://github.com/jesus2307/iaw-practica-15/blob/main/imagen/Captura2.PNG "Freenom")
++ phpMyAdmin
+![Freenom](https://github.com/jesus2307/iaw-practica-15/blob/main/imagen/Captura3.PNG "Freenom")
+
 
 
 
