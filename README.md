@@ -6,7 +6,7 @@ En esta práctica tendremos que realizar la implantación de un sitio WordPress 
 #### A continuación se describen muy brevemente algunas de las tareas que tendrá que realizar.
 
 #### Crear una máquina virtual Amazon EC2.
-con los puestos abiertos 
+![Freenom](https://github.com/jesus2307/iaw-practica-15/blob/main/imagen/Captura4.PNG "Freenom")
 
 #### Instalar y configurar Docker y Docker compose en la máquina virtual.
 
