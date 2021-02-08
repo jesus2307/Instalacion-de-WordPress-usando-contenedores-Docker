@@ -19,7 +19,7 @@ Busque cuál es la dirección IP pública de su instancia y compruebe que puede 
 + phpMyAdmin
 ![imagen](https://github.com/jesus2307/iaw-practica-15/blob/main/imagen/Captura3.PNG "imagen")
 
-#direcion: 
+# Direcion: 
 http://44.192.55.121/ 
 
 
